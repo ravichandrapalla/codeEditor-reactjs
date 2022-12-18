@@ -6,7 +6,7 @@ const Page404 = React.lazy(() => import("./pages/Page404"));
 
 const routes = [
   {
-    path: "/",
+    path: "/codeEditor-reactjs/",
     component: <Home />,
   },
   {
