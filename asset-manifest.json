@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/codeEditor-reactjs/static/css/main.97374c2c.css",
-    "main.js": "/codeEditor-reactjs/static/js/main.42cb9026.js",
-    "static/js/776.498d23f2.chunk.js": "/codeEditor-reactjs/static/js/776.498d23f2.chunk.js",
-    "static/js/261.6a84b6b2.chunk.js": "/codeEditor-reactjs/static/js/261.6a84b6b2.chunk.js",
-    "static/js/575.a0ae0ff8.chunk.js": "/codeEditor-reactjs/static/js/575.a0ae0ff8.chunk.js",
-    "static/js/209.230d1ab1.chunk.js": "/codeEditor-reactjs/static/js/209.230d1ab1.chunk.js",
+    "main.css": "/codeEditor-reactjs/static/css/main.64a489ac.css",
+    "main.js": "/codeEditor-reactjs/static/js/main.951e0baf.js",
+    "static/js/695.2c224b20.chunk.js": "/codeEditor-reactjs/static/js/695.2c224b20.chunk.js",
+    "static/js/729.c2a3b3bd.chunk.js": "/codeEditor-reactjs/static/js/729.c2a3b3bd.chunk.js",
+    "static/js/575.834e125c.chunk.js": "/codeEditor-reactjs/static/js/575.834e125c.chunk.js",
+    "static/js/269.98c7a70b.chunk.js": "/codeEditor-reactjs/static/js/269.98c7a70b.chunk.js",
+    "static/js/401.d5b4f981.chunk.js": "/codeEditor-reactjs/static/js/401.d5b4f981.chunk.js",
     "index.html": "/codeEditor-reactjs/index.html",
-    "main.97374c2c.css.map": "/codeEditor-reactjs/static/css/main.97374c2c.css.map",
-    "main.42cb9026.js.map": "/codeEditor-reactjs/static/js/main.42cb9026.js.map",
-    "776.498d23f2.chunk.js.map": "/codeEditor-reactjs/static/js/776.498d23f2.chunk.js.map",
-    "261.6a84b6b2.chunk.js.map": "/codeEditor-reactjs/static/js/261.6a84b6b2.chunk.js.map",
-    "575.a0ae0ff8.chunk.js.map": "/codeEditor-reactjs/static/js/575.a0ae0ff8.chunk.js.map",
-    "209.230d1ab1.chunk.js.map": "/codeEditor-reactjs/static/js/209.230d1ab1.chunk.js.map"
+    "main.64a489ac.css.map": "/codeEditor-reactjs/static/css/main.64a489ac.css.map",
+    "main.951e0baf.js.map": "/codeEditor-reactjs/static/js/main.951e0baf.js.map",
+    "695.2c224b20.chunk.js.map": "/codeEditor-reactjs/static/js/695.2c224b20.chunk.js.map",
+    "729.c2a3b3bd.chunk.js.map": "/codeEditor-reactjs/static/js/729.c2a3b3bd.chunk.js.map",
+    "575.834e125c.chunk.js.map": "/codeEditor-reactjs/static/js/575.834e125c.chunk.js.map",
+    "269.98c7a70b.chunk.js.map": "/codeEditor-reactjs/static/js/269.98c7a70b.chunk.js.map",
+    "401.d5b4f981.chunk.js.map": "/codeEditor-reactjs/static/js/401.d5b4f981.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.97374c2c.css",
-    "static/js/main.42cb9026.js"
+    "static/css/main.64a489ac.css",
+    "static/js/main.951e0baf.js"
   ]
 }

@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/261.6a84b6b2.chunk.js","mappings":"+IAMA,UAJA,WACE,OAAO,uCACT,C","sources":["pages/PlayGround.jsx"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction PlayGround() {\r\n  return <div>PlayGround</div>;\r\n}\r\n\r\nexport default PlayGround;\r\n"],"names":[],"sourceRoot":""}
