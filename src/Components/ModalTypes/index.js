@@ -4,6 +4,7 @@ import NewPlayGroundAndFolder from "./NewPlayGroundAndFolder";
 import EditFolder from "./EditFolder";
 import EditPlayGroundTitle from "./EditPlayGroundTitle";
 import Loading from "./Loading";
+import SignInSignUp from "./SignInSignUp";
 
 export {
   NewFolder,
@@ -12,4 +13,5 @@ export {
   EditFolder,
   Loading,
   EditPlayGroundTitle,
+  SignInSignUp,
 };

@@ -15,7 +15,7 @@ function ModalProvider({ children }) {
   const openModal = (value) => {
     setIsOpenModal(value);
   };
-  const closeModal = (value) => {
+  const closeModal = () => {
     setIsOpenModal({ ...intialModalFields });
   };
   const ModalFeatures = {
@@ -23,7 +23,6 @@ function ModalProvider({ children }) {
     openModal: openModal,
     closeModal: closeModal,
   };
-  console.log(ModalFeatures);
 
   return (
     <ModalContext.Provider value={ModalFeatures}>

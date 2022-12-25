@@ -3,6 +3,9 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import routes from "./routes";
 import ModalProvider from "./Context/ModalContext";
 import PlaygroundProvider from "./Context/PlaygroundContext";
+import { ToastContainer } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+
 const Loader = () => {
   <div className="flex justify-center items-center">
     <div
@@ -28,6 +31,7 @@ function App() {
                 </>
               </Routes>
             </Router>
+            <ToastContainer />
           </ModalProvider>
         </PlaygroundProvider>
       }
